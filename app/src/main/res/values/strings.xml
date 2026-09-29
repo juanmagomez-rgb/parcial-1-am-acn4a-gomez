@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Mis Películas</string>
+
+    <string name="titulo">Mis Películas</string>
+    <string name="contador_inicial">Películas guardadas: 0 | Vistas: 0</string>
+
+    <string name="titulo_agregar">Agregar película</string>
+    <string name="hint_pelicula">Nombre de la película</string>
+    <string name="boton_agregar">Agregar película</string>
+
+    <string name="titulo_lista">Mi lista</string>
+
+    <string name="estado_pendiente">Estado: Pendiente</string>
+    <string name="estado_vista">Estado: ✓ Vista</string>
+
+    <string name="boton_marcar_vista">Marcar como vista</string>
+    <string name="boton_vista">Vista</string>
+    <string name="boton_eliminar">Eliminar</string>
+
+    <string name="mensaje_nombre_vacio">Escribí el nombre de una película</string>
+
+    <string name="contador">Películas guardadas: %1$d | Vistas: %2$d</string>
+
+</resources>
